@@ -1,4 +1,4 @@
-#!/usr/bin/ python3
+#!user/bin/env python3
 
 path=input('输入EXCEL路径:')
 
